@@ -1,0 +1,11 @@
+
+AWS
+email: nickstekovic@hotmail.com
+Password: $$Chatbot1
+
+OpenAI Key
+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
+
+PineCone
+cb10fb47-dd36-4c00-a67b-f8780845ffda
+us-east-1-aws

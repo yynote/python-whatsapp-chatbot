@@ -1,0 +1,20 @@
+{
+    "Greeting & Name": {
+        "type": "give a name",
+        "question":[
+            "Hello! What should I call you?",
+            "Hi there! May I know your name?",
+            "Welcome! What's your name?",
+            "Hey! Could you introduce yourself?",
+            "Greetings! What name do you prefer?",
+            "Salutations! What's your moniker?",
+            "Nice to meet you! What should I call you?",
+            "Hello, stranger! What's your name?",
+            "Hi! Who am I speaking with?",
+            "Hi, welcome! Could you tell me your name?"
+        ]
+    }
+    
+    
+
+  }
